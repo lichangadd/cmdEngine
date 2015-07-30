@@ -1,0 +1,6 @@
+[
+    {
+        "unit": "AndroidRelease",
+        "params": ["BAIDU"]
+    }
+]
